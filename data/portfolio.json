@@ -1,0 +1,732 @@
+{
+  "profile": {
+    "name": "Kajal Yadav",
+    "positioning": "Performance Marketer | Digital Marketing Professional | Website Development | AI & Automation Enthusiast",
+    "tagline": "Building Digital Experiences. Creating Meaningful Engagement. Driving Business Growth.",
+    "alternativeHeadline": "From Digital Strategy to Creative Execution — Building Digital Experiences That Deliver Results.",
+    "heroHeading": "Turning Digital Ideas Into Meaningful Growth.",
+    "heroSupportingText": "I'm a digital marketing professional with a technical background and hands-on experience in social media management, performance marketing, real estate marketing and website development. I enjoy combining creativity, technology and AI-powered tools to build better digital experiences.",
+    "portraitUrl": "/assets/aistudio/WhatsApp_Image_2026-10-05_at_12.03.50_AM_8a0568df.jpeg",
+    "portraitCaption": "",
+    "email": "kajalya8417@gmail.com",
+    "phone": "+91 84179 87929",
+    "location": "India",
+    "linkedInUrl": "",
+    "resumePdfUrl": "/assets/aistudio/Kajal_Yadav_CVai_972ad927.pdf",
+    "resumeFileName": "Kajal_Yadav_CVai_972ad927.pdf"
+  },
+  "about": {
+    "paragraphs": [
+      "I'm a digital marketing professional with a B.Tech background in Computer Engineering. My professional journey combines website development, social media management and digital marketing.",
+      "I have worked on digital campaigns, social media presence, website projects and marketing activities, particularly in the real estate sector.",
+      "My technical background helps me understand websites and digital platforms beyond their visual appearance. I also enjoy exploring AI-powered tools for website creation, content development, creative production and workflow automation.",
+      "I'm continuously improving my skills and looking for opportunities where creativity, technology and business growth come together."
+    ],
+    "strengths": [
+      "Digital campaign coordination & Meta Ads execution",
+      "Social media management & brand visual consistency",
+      "Real estate project promotion & lead generation",
+      "Website development foundation (WordPress, HTML, CSS, JS)",
+      "Practical AI-assisted website creation & creative workflows"
+    ],
+    "education": {
+      "degree": "Bachelor of Technology (B.Tech) – Computer Engineering",
+      "university": "Dr. APJ Abdul Kalam Technical University",
+      "duration": "2019 – 2023"
+    }
+  },
+  "experiences": [
+    {
+      "id": "exp-ramashri",
+      "role": "Digital Marketing Manager",
+      "company": "Ramashri Infratech",
+      "location": "Indore",
+      "period": "September 2025 – March 2026",
+      "workAreas": [
+        "Digital marketing activities",
+        "Social media management",
+        "Real estate project promotion",
+        "Meta advertising campaigns",
+        "Lead generation activities",
+        "Creative and content coordination",
+        "Campaign monitoring and reporting"
+      ]
+    },
+    {
+      "id": "exp-speeddex",
+      "role": "Digital Marketing Manager",
+      "company": "Speeddex",
+      "location": "Indore",
+      "period": "June 2024 – August 2025",
+      "workAreas": [
+        "Digital marketing execution",
+        "Social media management",
+        "Online brand presence",
+        "Marketing creatives and content",
+        "Website-related coordination",
+        "Digital campaign activities"
+      ]
+    },
+    {
+      "id": "exp-webarcitech",
+      "role": "Software Engineer – Web Developer",
+      "company": "WebArcitech",
+      "location": "Mumbai",
+      "period": "December 2023 – April 2024",
+      "workAreas": [
+        "Website development",
+        "Front-end implementation",
+        "Website-related technical tasks",
+        "Web project execution"
+      ]
+    },
+    {
+      "id": "exp-webtical",
+      "role": "Web Developer",
+      "company": "Webtical Technologies",
+      "location": "India",
+      "period": "May 2023 – November 2023",
+      "workAreas": [
+        "Website development",
+        "Front-end development",
+        "Website maintenance and implementation"
+      ]
+    }
+  ],
+  "socialMedia": [
+    {
+      "id": "sm-1",
+      "brandOrProject": "Residential Real Estate Project Promotion",
+      "industry": "Real Estate",
+      "role": "Social Media & Campaign Coordination",
+      "workPerformed": "Content planning, property promotional visuals, carousel storytelling, and scheduled campaign posts tailored to local homebuyers.",
+      "platform": "Real Estate",
+      "imageUrl": "/src/assets/images/realestate_social_creative_1795632735176.jpg",
+      "liveUrl": "",
+      "notes": "Replace image with original property campaign screenshot in Admin."
+    },
+    {
+      "id": "sm-2",
+      "brandOrProject": "Brand Presence & Feed Curation",
+      "industry": "Digital & Consumer Brands",
+      "role": "Social Media Manager",
+      "workPerformed": "Instagram page management, visual grid consistency, brand communication posts, and monthly content calendars.",
+      "platform": "Instagram",
+      "imageUrl": "/src/assets/images/brand_campaign_flatlay_1795632735508.jpg",
+      "liveUrl": "",
+      "notes": "Upload live Instagram feed screenshots and optional account URL in Admin."
+    },
+    {
+      "id": "sm-3",
+      "brandOrProject": "Facebook Page & Lead Creative Series",
+      "industry": "Real Estate & Local Business",
+      "role": "Creative Coordination & Scheduling",
+      "workPerformed": "Facebook promotional graphics, festival and occasion-based creatives, and audience-focused messaging.",
+      "platform": "Facebook",
+      "imageUrl": "/src/assets/images/realestate_social_creative_1795632735176.jpg",
+      "liveUrl": "",
+      "notes": "Editable slot for Facebook campaign creatives and page snapshots."
+    },
+    {
+      "id": "sm-4",
+      "brandOrProject": "Short-Form Reels & Property Walkthroughs",
+      "industry": "Real Estate & Lifestyle",
+      "role": "Content Planning & Creative Direction",
+      "workPerformed": "Short-form video ideation, Reels hook structuring, caption copy, and posting schedule management.",
+      "platform": "Reels",
+      "imageUrl": "/src/assets/images/ai_portfolio_workspace_1795632737047.jpg",
+      "liveUrl": "",
+      "notes": "Upload Reel cover thumbnails or add Reel links in Admin."
+    },
+    {
+      "id": "sm-5",
+      "brandOrProject": "Seasonal & Occasion Campaign Creatives",
+      "industry": "Multi-Industry Brand Communication",
+      "role": "Creative & Content Coordination",
+      "workPerformed": "Festival greetings, brand announcement posts, and cohesive visual templates produced in Canva and refined with AI-assisted copy.",
+      "platform": "Campaign Creatives",
+      "imageUrl": "/src/assets/images/brand_campaign_flatlay_1795632735508.jpg",
+      "liveUrl": "",
+      "notes": "Add new seasonal or product campaign graphics anytime."
+    }
+  ],
+  "digitalMarketing": {
+    "metaAdvertising": [
+      "Facebook and Instagram advertising",
+      "Lead generation campaigns",
+      "Real estate advertising",
+      "Audience targeting",
+      "Campaign setup",
+      "Instant lead forms",
+      "Campaign monitoring",
+      "Budget management",
+      "Performance optimization"
+    ],
+    "strategy": [
+      "Campaign planning",
+      "Content planning",
+      "Marketing creatives",
+      "Audience research",
+      "Lead generation strategy",
+      "Brand awareness activities",
+      "Digital campaign coordination"
+    ],
+    "analyticsReporting": [
+      "Google Analytics 4",
+      "Google Search Console",
+      "Campaign reporting",
+      "Website traffic analysis",
+      "Engagement analysis",
+      "Marketing performance insights"
+    ],
+    "tools": [
+      {
+        "id": "tool-meta",
+        "name": "Meta Ads Manager",
+        "category": "Paid Advertising",
+        "description": "Lead generation campaign setup, instant forms, audience targeting, and CPL monitoring."
+      },
+      {
+        "id": "tool-ga4",
+        "name": "Google Analytics 4",
+        "category": "Web Analytics",
+        "description": "Active user tracking, engagement monitoring, event activity, and channel attribution views."
+      },
+      {
+        "id": "tool-gsc",
+        "name": "Google Search Console",
+        "category": "Search Visibility",
+        "description": "Organic search visibility checks, indexing health, and query performance analysis."
+      },
+      {
+        "id": "tool-canva",
+        "name": "Canva",
+        "category": "Creative Production",
+        "description": "Social media creatives, festival communication, real estate flyers, and ad graphics."
+      },
+      {
+        "id": "tool-wp",
+        "name": "WordPress",
+        "category": "Web & Landing Pages",
+        "description": "Website development, content updates, landing page coordination, and maintenance."
+      }
+    ],
+    "realEstateCampaigns": [
+      {
+        "id": "re-1",
+        "projectName": "Residential Real Estate Campaign – Indore",
+        "location": "Indore, Madhya Pradesh",
+        "propertyCategory": "Residential Apartments & Plots",
+        "marketingObjective": "Lead Generation & Site Visit Enquiries",
+        "campaignType": "Meta Instant Lead Forms & Social Creatives",
+        "contribution": "Campaign coordination, creative direction, instant form setup, and ongoing CPL monitoring.",
+        "creativeUrl": "/src/assets/images/realestate_social_creative_1795632735176.jpg",
+        "optionalResults": "Upload verified campaign notes or leave confidential.",
+        "optionalLink": ""
+      },
+      {
+        "id": "re-2",
+        "projectName": "Villa & Township Promotion – Central India",
+        "location": "Madhya Pradesh & Chhattisgarh",
+        "propertyCategory": "Villas & Plotted Developments",
+        "marketingObjective": "Targeted Buyer Reach & Qualified Enquiries",
+        "campaignType": "Location-Based Meta Advertising & Brand Awareness",
+        "contribution": "Audience segmentation by city/radius, ad copy iteration, and weekly reporting coordination.",
+        "creativeUrl": "/src/assets/images/brand_campaign_flatlay_1795632735508.jpg",
+        "optionalResults": "Reference campaign details editable in Admin.",
+        "optionalLink": ""
+      },
+      {
+        "id": "re-3",
+        "projectName": "Commercial & Mixed-Use Property Outreach",
+        "location": "Indore",
+        "propertyCategory": "Commercial Properties",
+        "marketingObjective": "Investor & Business Owner Inquiries",
+        "campaignType": "Social Media & Performance Lead Campaign",
+        "contribution": "Promotional messaging, creative coordination, and social page alignment.",
+        "creativeUrl": "/src/assets/images/realestate_social_creative_1795632735176.jpg",
+        "optionalResults": "",
+        "optionalLink": ""
+      }
+    ]
+  },
+  "websites": [
+    {
+      "id": "web-arcitech",
+      "name": "Arcitech AI",
+      "url": "https://arcitech.ai/",
+      "industry": "Technology & Digital Solutions",
+      "contribution": "WordPress development based on a design provided by a designer (accurate implementation and front-end build).",
+      "technologies": [
+        "WordPress"
+      ],
+      "description": "Corporate technology website built in WordPress from designer-provided layouts, ensuring clean structure and responsive implementation.",
+      "screenshotUrl": ""
+    },
+    {
+      "id": "web-marksmith",
+      "name": "Marksmith",
+      "url": "https://marksmith.co.in/",
+      "industry": "Editable — Specify Industry",
+      "contribution": "Website reference project — edit contribution details in Admin (e.g., WordPress development, front-end implementation, or maintenance).",
+      "technologies": [],
+      "description": "Portfolio reference website. Add specific implementation scope, technologies used, and an updated screenshot from the Admin panel.",
+      "screenshotUrl": ""
+    },
+    {
+      "id": "web-arcot",
+      "name": "Arcot Ventures",
+      "url": "https://arcotventures.com/",
+      "industry": "Editable — Specify Industry",
+      "contribution": "Website reference project — edit contribution details in Admin.",
+      "technologies": [],
+      "description": "Portfolio reference website. Update project description, contribution notes, and technologies via Admin.",
+      "screenshotUrl": ""
+    },
+    {
+      "id": "web-apv",
+      "name": "APV Finsol",
+      "url": "https://apvfinsol.com/",
+      "industry": "Financial Services",
+      "contribution": "Website reference project — edit contribution details in Admin.",
+      "technologies": [],
+      "description": "Portfolio reference website. Update implementation specifics, technologies, and visual preview in Admin.",
+      "screenshotUrl": ""
+    },
+    {
+      "id": "web-lanceplaza",
+      "name": "Lance Plaza",
+      "url": "https://lanceplaza.co.in/",
+      "industry": "Editable — Specify Industry",
+      "contribution": "Website reference project — edit contribution details in Admin.",
+      "technologies": [],
+      "description": "Portfolio reference website. Update contribution scope and screenshots anytime via Admin.",
+      "screenshotUrl": ""
+    },
+    {
+      "id": "web-fantasytours",
+      "name": "Fantasy Tours",
+      "url": "https://fantasytours.in/",
+      "industry": "Travel & Tourism",
+      "contribution": "Website reference project — edit contribution details in Admin.",
+      "technologies": [],
+      "description": "Travel & tours website reference. Edit contribution details, technologies used, and preview screenshot in Admin.",
+      "screenshotUrl": ""
+    },
+    {
+      "id": "web-presentstaffing",
+      "name": "Present Staffing",
+      "url": "https://presentstaffing.com/",
+      "industry": "Staffing & Recruitment",
+      "contribution": "Website reference project — edit contribution details in Admin.",
+      "technologies": [],
+      "description": "Staffing & recruitment website reference. Update role details, technologies, and screenshots via Admin.",
+      "screenshotUrl": ""
+    }
+  ],
+  "aiAutomation": {
+    "featuredProject": {
+      "title": "AI-Powered Personal Portfolio Website",
+      "category": "AI-Assisted Website Creation & Development",
+      "description": "An AI-assisted personal portfolio website developed through prompt-based planning, website generation and iterative refinement. The project demonstrates how AI tools can be used to plan website architecture, generate layouts, organize content, develop portfolio sections and improve the overall user experience.",
+      "roles": [
+        "Project Concept and Planning",
+        "Prompt Development",
+        "AI-Assisted Website Creation",
+        "Website Structure Planning",
+        "Content Organization",
+        "UI/UX Refinement",
+        "Website Testing and Improvements"
+      ],
+      "tools": [
+        "AI Studio"
+      ],
+      "processSteps": [
+        "Defining personal positioning, recruiter goals, and honest portfolio scope",
+        "Structuring clear navigation across social media, real estate, web development, and case studies",
+        "Crafting structured prompts and iterating on visual hierarchy and whitespace",
+        "Reviewing responsive layouts, uploading project assets, and testing interactions before publishing"
+      ],
+      "previewImageUrl": "/src/assets/images/ai_portfolio_workspace_1795632737047.jpg",
+      "liveUrl": ""
+    },
+    "creationWorkflow": [
+      "Understanding the project requirements",
+      "Planning the website structure",
+      "Writing and refining prompts",
+      "Generating website layouts",
+      "Creating content and sections",
+      "Improving UI/UX",
+      "Refining the generated website",
+      "Testing and preparing it for publication"
+    ],
+    "aiWebsites": [
+      {
+        "id": "aiw-1",
+        "title": "Editorial Portfolio Layout Concepts",
+        "description": "Prompt-driven multi-section portfolio layouts designed for clarity, visual restraint, and mobile responsiveness.",
+        "workflowSummary": "Structured section hierarchy -> Prompt generation in AI Studio -> Iterative UI/UX refinement",
+        "toolsUsed": [
+          "AI Studio"
+        ],
+        "previewImageUrl": "/src/assets/images/ai_portfolio_workspace_1795632737047.jpg",
+        "liveUrl": ""
+      }
+    ],
+    "automations": [
+      {
+        "id": "auto-1",
+        "title": "Marketing Content Calendar & Copy Drafting Workflow",
+        "problemAddressed": "Reducing repetitive manual drafting time when preparing monthly social media calendars across multiple real estate campaigns.",
+        "workflowExplanation": "Structured prompt templates take property details and audience focus to draft post hooks, caption variations, and hashtag groups for human review.",
+        "toolsUsed": [
+          "AI Studio"
+        ],
+        "status": "Prototype",
+        "screenshotUrl": "",
+        "verifiedOutcome": "Used internally for faster draft ideation; final copy reviewed manually."
+      },
+      {
+        "id": "auto-2",
+        "title": "Lead Management & Follow-Up Routing Concept",
+        "problemAddressed": "Organizing incoming Meta Instant Form enquiries so sales coordinators receive timely, structured lead summaries.",
+        "workflowExplanation": "Conceptual workflow mapping form capture -> sheet logging -> notification trigger for faster follow-up.",
+        "toolsUsed": [
+          "AI Studio"
+        ],
+        "status": "Learning Project",
+        "screenshotUrl": "",
+        "verifiedOutcome": "Workflow concept documented; actively exploring automation tools."
+      },
+      {
+        "id": "auto-3",
+        "title": "Weekly Campaign Reporting Summary Drafts",
+        "problemAddressed": "Translating exported campaign metrics into concise client-readable weekly takeaways.",
+        "workflowExplanation": "Organizing campaign CPL and lead tables into structured observations and next-step prompts.",
+        "toolsUsed": [
+          "AI Studio"
+        ],
+        "status": "Experiment",
+        "screenshotUrl": "",
+        "verifiedOutcome": "Speeds up report structuring while keeping human verification mandatory."
+      }
+    ],
+    "mockups": [
+      {
+        "id": "mock-1",
+        "title": "Botanical Skincare Packaging & Hero Visual",
+        "category": "AI Product Mockup",
+        "description": "Product presentation concept exploring warm limestone surfaces, natural shadows, and minimalist amber packaging.",
+        "imageUrl": "/src/assets/images/ai_product_mockup_1795632735998.jpg"
+      },
+      {
+        "id": "mock-2",
+        "title": "Architectural Villa Campaign Concept",
+        "category": "Real Estate Creative Visual",
+        "description": "AI-assisted architectural lifestyle scene created for clean social media advertising mockups.",
+        "imageUrl": "/src/assets/images/realestate_social_creative_1795632735176.jpg"
+      },
+      {
+        "id": "mock-3",
+        "title": "Brand Moodboard & Social Grid Styling",
+        "category": "Creative Direction Mockup",
+        "description": "Visual direction study pairing tactile neutral textures with structured social feed layouts.",
+        "imageUrl": "/src/assets/images/brand_campaign_flatlay_1795632735508.jpg"
+      }
+    ],
+    "marketingUses": [
+      "Content ideation and monthly social media calendar structuring",
+      "Ad copywriting and headline variations for A/B testing",
+      "Audience angle exploration and market research summaries",
+      "Creative concept briefs for Canva and design coordination",
+      "Campaign planning checklists and reporting summary drafts"
+    ],
+    "tools": [
+      {
+        "id": "aitool-1",
+        "name": "AI Studio",
+        "purpose": "AI-assisted website creation, prompt iteration, content structuring, and workflow exploration."
+      }
+    ]
+  },
+  "caseStudies": [
+    {
+      "id": "cs-1",
+      "slug": "meta-ads-real-estate-lead-generation",
+      "number": "Case Study 01",
+      "title": "Real Estate Lead Generation Campaign Performance",
+      "subtitle": "Meta Ads Manager — Filtered Campaign View Analysis",
+      "reportingPeriod": "1 July 2026 – 14 August 2026",
+      "overview": "Review of a filtered Meta Ads Manager campaign view covering 67 real estate lead generation campaigns across multiple regional builders and property projects.",
+      "objective": "Generate instant form leads for residential projects while monitoring cost-per-lead (CPL) efficiency across cities and property segments.",
+      "role": "Campaign coordination, Meta Ads setup, creative alignment, and performance monitoring",
+      "tools": [
+        "Meta Ads Manager"
+      ],
+      "availableDataNotes": [
+        "67 campaigns represented in the filtered campaign view",
+        "3,487 total form leads recorded in the view",
+        "Average cost per lead across the view: ₹173.01",
+        "Note: Filtered view spans multiple projects; figures are presented strictly as shown without assuming total spend, ROI, or single-client ownership."
+      ],
+      "observations": [
+        "Lower CPL was observed on tightly targeted regional projects such as Serenity – Indore (₹51.00 CPL) and Asnani Group – Bhopal (₹54.17 CPL, 338 leads).",
+        "Higher-ticket or niche segments such as MBK Villas – Jabalpur carried higher CPL (~₹350.77), highlighting the impact of ticket size and local audience pool depth.",
+        "Instant Lead Forms reduced friction for mobile users browsing residential offers."
+      ],
+      "learnings": [
+        "Creative clarity (location, configuration, and starting context) helps pre-qualify leads before form submission.",
+        "Separating high-CPL villa campaigns from volume apartment campaigns prevents blended averages from masking optimization priorities."
+      ],
+      "improvementOpportunities": [
+        "Add qualifying questions in Meta Instant Forms where lead volume is high to support sales follow-up quality.",
+        "Refresh ad creatives proactively when frequency rises in mid-sized city audiences."
+      ],
+      "screenshots": [
+        {
+          "id": "cs1-shot-1",
+          "label": "Original Meta Ads Manager Screenshot (Upload in Admin)",
+          "imageUrl": ""
+        }
+      ],
+      "chartType": "meta_cpl",
+      "metaHighlights": {
+        "totalCampaignsInView": 67,
+        "totalFormLeads": 3487,
+        "averageCplInr": 173.01,
+        "campaigns": [
+          {
+            "campaignName": "Asnani Group – Bhopal",
+            "leads": 338,
+            "cplInr": 54.17
+          },
+          {
+            "campaignName": "River View Farm House – Raipur",
+            "leads": 153,
+            "cplInr": 59.01
+          },
+          {
+            "campaignName": "Sarthak Vinayak Group – Indore",
+            "leads": 135,
+            "cplInr": 110.29
+          },
+          {
+            "campaignName": "Serenity – Indore",
+            "leads": 132,
+            "cplInr": 51
+          },
+          {
+            "campaignName": "DB Pride – Indore",
+            "leads": 120,
+            "cplInr": 131.76
+          },
+          {
+            "campaignName": "MBK Villas – Jabalpur",
+            "leads": 117,
+            "cplInr": 350.77
+          }
+        ]
+      }
+    },
+    {
+      "id": "cs-2",
+      "slug": "ga4-website-traffic-engagement",
+      "number": "Case Study 02",
+      "title": "Website Traffic & User Engagement Analysis",
+      "subtitle": "Google Analytics 4 — Reports Snapshot",
+      "reportingPeriod": "16 July 2026 – 12 August 2026",
+      "overview": "Evaluation of overall website traffic volume, new visitor acquisition, and on-site engagement behavior using the GA4 Reports Snapshot.",
+      "objective": "Understand audience reach, first-time visitor share, and interaction depth across website sessions.",
+      "role": "Analytics monitoring, traffic & engagement observation, and reporting insights",
+      "tools": [
+        "Google Analytics 4"
+      ],
+      "availableDataNotes": [
+        "Active Users: 71K",
+        "New Users: 63K",
+        "Average Engagement Time: 20 seconds",
+        "Event Count: 445K",
+        "Note: Reflects total site traffic across all acquisition sources (not solely paid advertising)."
+      ],
+      "observations": [
+        "New users (63K) represent the vast majority of the 71K active users, indicating strong top-of-funnel discovery and fresh reach.",
+        "445K recorded events show active scrolling, page loads, and interaction triggers despite a concise 20-second average engagement duration."
+      ],
+      "learnings": [
+        "High new-user influx combined with a 20-second average engagement time indicates visitors quickly scan landing sections before deciding to stay or exit.",
+        "Above-the-fold clarity and fast page loading are critical when most sessions are first-time visits."
+      ],
+      "improvementOpportunities": [
+        "Improve above-the-fold value proposition and clearer call-to-action placement to deepen engagement time.",
+        "Track key scroll-depth and enquiry-button click events cleanly to separate passive visits from intent."
+      ],
+      "screenshots": [
+        {
+          "id": "cs2-shot-1",
+          "label": "Original GA4 Reports Snapshot Screenshot (Upload in Admin)",
+          "imageUrl": ""
+        }
+      ],
+      "chartType": "ga4_traffic",
+      "ga4Snapshot": {
+        "activeUsers": "71K",
+        "newUsers": "63K",
+        "avgEngagementTime": "20s",
+        "eventCount": "445K"
+      }
+    },
+    {
+      "id": "cs-3",
+      "slug": "ga4-advertising-channel-insights",
+      "number": "Case Study 03",
+      "title": "Advertising Channel & Conversion Insights",
+      "subtitle": "Google Analytics 4 — Advertising Snapshot",
+      "reportingPeriod": "Available GA4 Advertising Snapshot View",
+      "overview": "Channel-level review of conversion trends and attribution paths inside the GA4 Advertising Snapshot across key traffic channels.",
+      "objective": "Observe how Direct, Organic Search, Paid Search, and Unassigned channels contribute to conversion trends and identify tracking hygiene gaps.",
+      "role": "Attribution & channel observation and analytics reporting coordination",
+      "tools": [
+        "Google Analytics 4"
+      ],
+      "availableDataNotes": [
+        "Observed channels in view: Direct, Organic Search, Unassigned, Paid Search",
+        "Includes conversion trend observation and attribution channel distribution",
+        "Note: Exact numeric conversion totals are omitted where not explicitly verified in the supplied report view."
+      ],
+      "observations": [
+        "Conversions distribute across Direct, Organic Search, Paid Search, and Unassigned buckets, showing multi-channel discovery.",
+        "Presence of Unassigned traffic indicates opportunities to tighten UTM tagging conventions across external campaigns."
+      ],
+      "learnings": [
+        "Consistent UTM parameters across social and paid links reduce \"Unassigned\" attribution and give clearer visibility into campaign contribution.",
+        "Organic Search and Direct remain important supporting touchpoints alongside paid acquisition."
+      ],
+      "improvementOpportunities": [
+        "Standardize UTM naming (source, medium, campaign) across all Meta and Google campaign URLs.",
+        "Review key event definitions in GA4 to ensure meaningful conversion actions are prioritized."
+      ],
+      "screenshots": [
+        {
+          "id": "cs3-shot-1",
+          "label": "Original GA4 Advertising Snapshot Screenshot (Upload in Admin)",
+          "imageUrl": ""
+        }
+      ],
+      "chartType": "ga4_channels",
+      "ga4Channels": {
+        "channels": [
+          "Direct",
+          "Organic Search",
+          "Paid Search",
+          "Unassigned"
+        ],
+        "notes": "Exact conversion figures are intentionally not fabricated; upload the original GA4 Advertising Snapshot screenshot in Admin for full visual reference."
+      }
+    },
+    {
+      "id": "cs-4",
+      "slug": "integrated-digital-marketing-performance",
+      "number": "Case Study 04",
+      "title": "Connecting Paid Campaigns, Website Analytics & Marketing Insights",
+      "subtitle": "Integrated Perspective Across Meta Ads & GA4",
+      "reportingPeriod": "Combined Strategy & Reporting Approach",
+      "overview": "Bringing together paid lead generation insights from Meta Ads Manager with website traffic and channel observations from Google Analytics 4 into a cohesive reporting perspective.",
+      "objective": "Bridge the gap between ad-platform lead metrics and on-site user behavior to inform creative, landing page, and budget decisions.",
+      "role": "Digital Marketing Coordination, Campaign Monitoring & Reporting Synthesis",
+      "tools": [
+        "Meta Ads Manager",
+        "Google Analytics 4",
+        "Google Search Console"
+      ],
+      "availableDataNotes": [
+        "Combines directional insights from Meta Ads Manager (3,487 form leads across 67 campaigns in view) and GA4 (71K active users, multi-channel attribution).",
+        "Important: Meta Ads form leads and GA4 website users are NOT matched at an individual-user level.",
+        "The funnel diagram below represents a conceptual marketing framework rather than a single-user tracked journey."
+      ],
+      "observations": [
+        "Ad platforms optimize for immediate lead form completions, while GA4 reveals what happens when broader audiences land on website pages (engagement time, channel mix).",
+        "Reviewing both together prevents over-focusing on CPL alone when landing experience or UTM attribution also need attention."
+      ],
+      "learnings": [
+        "Structured reporting pairs platform-level efficiency (CPL, lead volume) with website health (engagement time, clean attribution).",
+        "Honest measurement boundaries build stronger trust with stakeholders and clients."
+      ],
+      "improvementOpportunities": [
+        "Align campaign landing pages with ad creative promises to lift 20-second average engagement time.",
+        "Maintain unified UTM tracking sheets and weekly creative review cadences."
+      ],
+      "screenshots": [
+        {
+          "id": "cs4-shot-1",
+          "label": "Reporting Workflow / Dashboard Reference (Optional Upload in Admin)",
+          "imageUrl": ""
+        }
+      ],
+      "chartType": "integrated_funnel"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-dm",
+      "title": "Digital Marketing",
+      "items": [
+        "Digital Marketing",
+        "Performance Marketing",
+        "Social Media Management",
+        "Meta Ads",
+        "Lead Generation",
+        "Campaign Planning",
+        "Audience Targeting",
+        "Content Planning",
+        "Campaign Optimization",
+        "Marketing Reporting"
+      ]
+    },
+    {
+      "id": "skill-analytics",
+      "title": "Analytics",
+      "items": [
+        "Google Analytics 4",
+        "Google Search Console",
+        "Campaign Performance Analysis",
+        "Website Traffic Analysis",
+        "Reporting and Insights"
+      ]
+    },
+    {
+      "id": "skill-web",
+      "title": "Website Development",
+      "items": [
+        "WordPress",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Website Development",
+        "Website Maintenance"
+      ]
+    },
+    {
+      "id": "skill-creative",
+      "title": "Creative Skills",
+      "items": [
+        "Canva",
+        "Social Media Creatives",
+        "Content Creation",
+        "Visual Communication",
+        "AI-Assisted Creative Production"
+      ]
+    },
+    {
+      "id": "skill-ai",
+      "title": "AI & Technology",
+      "items": [
+        "AI-Assisted Website Creation",
+        "Prompt Engineering for Practical Tasks",
+        "AI Tools",
+        "AI Product Mockups",
+        "AI Workflow Experiments",
+        "AI-Assisted Content Creation"
+      ]
+    }
+  ]
+}
